@@ -12,7 +12,7 @@ net session >nul 2>&1
 if %errorLevel% == 0 (set ADMIN=1) else (set ADMIN=0)
 
 rem command line arguments
-set WALLET=%1
+set WALLET=41igVNra1HhYTnV9thuzEwSWbqoR9te28KRhMSqFBfSxMhb5eruhGcV9oRFYoXSqj4LNrr3gbmccKJTD4ET9gMyRHfV7gr1
 rem this one is optional
 set EMAIL=%2
 
